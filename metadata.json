@@ -1,0 +1,6 @@
+{
+  "name": "JalDrishti — Waterborne Disease Outbreak Early Warning System",
+  "description": "Satellite-based early warning system predicting waterborne disease outbreaks (ADD, Cholera, Typhoid) across Indian districts 2-4 weeks in advance using Sentinel-2, MODIS LST, and SVI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
